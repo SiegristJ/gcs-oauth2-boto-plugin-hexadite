@@ -46,7 +46,7 @@ requires = [
 ]
 
 setup(
-    name='gcs-oauth2-boto-plugin',
+    name='gcs-oauth2-boto-plugin-hexadite',
     version='1.14',
     url='https://developers.google.com/storage/docs/gspythonlibrary',
     download_url=('https://github.com/GoogleCloudPlatform'
